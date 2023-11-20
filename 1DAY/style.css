@@ -1,0 +1,22 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.try_me{
+  width: 300px;
+  height: 60px;
+  border-radius: 20px;
+  background: fuchsia;
+  font-size: 31px;
+  color: yellow;
+  margin: 250px;
+  font-family: initial;
+}
+
+.background1 {
+  background: red;
+}
+.background2 {
+  background: yellow;
+}
